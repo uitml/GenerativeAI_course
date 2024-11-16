@@ -25,7 +25,7 @@ You will learn about
 * Ethics in AI
 * and more!
 
-You can find more information on the Schedule in the file `schedule.pdf`
+You can find more information on the Schedule in the file `scheduleGenerativeAI2025.pdf`
 
 ## Who can register?
 
@@ -40,7 +40,7 @@ https://uit.no/utdanning/opptaksinfo#innhold_711494
 
 ## Contacts
 
-Main teachers
+Main responsibles:
 - Helge Fredriksen (Bodø campus), helge.fredriksen@uit.no
 - Benjamin Ricaud (Tromsø campus), benjamin.ricaud@uit.no
 
