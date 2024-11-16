@@ -40,7 +40,7 @@ https://uit.no/utdanning/opptaksinfo#innhold_711494
 
 ## Contacts
 
-Main responsibles:
+Course leaders:
 - Helge Fredriksen (Bodø campus), helge.fredriksen@uit.no
 - Benjamin Ricaud (Tromsø campus), benjamin.ricaud@uit.no
 
