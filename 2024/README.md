@@ -2,7 +2,7 @@
 
 You can find the description of the course and the topics covered in the file `FYS3810-SpecialcurriculumGenerativeAI.pdf`
 
-You can see below the student projects made during the course (several are quite fun!):
+You can see below the students' projects made during the course (several are quite fun!):
 
 * Automatic summary of videos https://github.com/sofiejoha/gen-ai
 * Crawlinator, information retrieval about companies from the web https://github.com/SondreUM/gen-ai

@@ -3,6 +3,8 @@ Information and material for the course *Generative AI* at The Arctic University
 
 The new version of the course is coming! The next edition will be in **spring 2025**.
 
+![AI generated reindeer](AIreindeer.png 'AI reindeer')
+
 The course will be streamed online and recorded. You can attend physically at the Tromsø (main place) and Bodø campuses.
 
 Course code for this year:
@@ -25,7 +27,7 @@ You will learn about
 * Ethics in AI,
 * and more!
 
-You can find more information on the Schedule in the file `scheduleGenerativeAI2025.pdf`
+You can find more information on the Schedule in the file `scheduleGenerativeAI2025.pdf`. The schedule is preliminary and may be subject to small changes.
 
 You will be evaluated on a team project you develop over the semester. This project will be a software or demo making use of the tools and concepts we see in class (see folder of the previous year for some examples). PhD students will have an additional task of presenting a scientific paper during one of the lectures.
 
@@ -39,7 +41,7 @@ You can register if you are:
 
 Master students: register on studentweb.
 
-Instructions for PhD students:
+Instructions for PhD students (deadline for registering a PhD student: 1st of december):
 https://uit.no/utdanning/opptaksinfo#innhold_711494
 
 ## Contacts
