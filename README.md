@@ -57,6 +57,6 @@ You can find information about previous years in the dedicated folders
 
 ## Funding and support
 
-This UiT course is supported by the center of excellence SFF Integreat.
+This UiT course is supported by the center of excellence [SFF Integreat](https://www.integreat.no/).
 
 ![Integreat Logo](integreatlogo.png 'Integreat logo')
