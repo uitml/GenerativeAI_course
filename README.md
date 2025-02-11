@@ -54,3 +54,9 @@ Course leaders:
 ## Previous editions
 
 You can find information about previous years in the dedicated folders
+
+## Funding and support
+
+This UiT course is supported by the center of excellence SFF Integreat.
+
+![Integreat Logo](integreatlogo.png 'Integreat logo')
