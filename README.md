@@ -1,18 +1,15 @@
 # Generative AI course
 Information and material for the course *Generative AI* at The Arctic University of Norway
 
-The new version of the course is coming! The next edition will be in **spring 2025**.
+The new version of the course is coming! The next edition will be in **spring 2026**.
 
 ![AI generated reindeer](AIreindeer.png 'AI reindeer')
 
-The course will be streamed online and recorded. You can attend physically at the Tromsø (main place) and Bodø campuses.
+The course will be streamed online. You can attend physically at the Tromsø (main place) and Bodø campuses.
 
-Course code for this year:
+Course code at UiT: INF-3600 and [webpage](https://uit.no/utdanning/aktivt/emne/INF-3600)
 
-* INF-3993-3, for master students
-* INF 9301, singular courses code at PhD level
 
-[Canvas page of the course](https://uit.instructure.com/courses/37423) (you need to be registered to see this page)
 
 ## Content
 
@@ -27,9 +24,9 @@ You will learn about
 * Ethics in AI,
 * and more!
 
-You can find more information on the Schedule in the file `scheduleGenerativeAI2025.pdf`. The schedule is preliminary and may be subject to small changes.
+You can find more information by looking at the last editions 2024 and 2025 in their respective folders. 
 
-You will be evaluated on a team project you develop over the semester. This project will be a software or demo making use of the tools and concepts we see in class (see folder of the previous year for some examples). PhD students will have an additional task of presenting a scientific paper during one of the lectures.
+You will be evaluated on a team project you develop over the semester. This project will be a software or demo making use of the tools and concepts we see in class (see folder of the previous years for some examples). PhD students will have an additional task of presenting a scientific paper during one of the lectures.
 
 ## Who can register?
 
@@ -40,9 +37,6 @@ You can register if you are:
 ## How to register for the course
 
 Master students: register on studentweb.
-
-Instructions for PhD students (deadline for registering a PhD student: 1st of december):
-https://uit.no/utdanning/opptaksinfo#innhold_711494
 
 ## Contacts
 
