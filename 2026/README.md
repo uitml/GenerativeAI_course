@@ -18,7 +18,7 @@ A RAG-based system that generates explanations of academic research papers adapt
 ---
 
 ## Team Bodø — Satellite Image Inpainting with LoRA
-| [GitHub](https://github.com/BeGj/inf3600-project) |
+| [GitHub](https://github.com/BeGj/inf3600-project) | [Demo video](https://youtu.be/Bh6gexczSmc) |
 
 Investigates whether LoRA fine-tuning of Stable Diffusion 1.5 can improve inpainting performance on satellite imagery while avoiding the computational cost of full fine-tuning. The project trains on multiple satellite datasets (including Sentinel and OSM Nordic) and delivers a web application for applying the trained models to real imagery.
 
@@ -38,7 +38,7 @@ Demonstrates how transformer architectures can extend existing 4/4 solo MIDI pie
 ---
 
 ## MedSim RAG
-|[GitHub](https://github.com/Arthur-PREVEL/MedSim-RAG)| [Demo video](https://youtu.be/sl_wyVNGyYw?si=X8N37PXTsvnKNsEK)
+|[GitHub](https://github.com/Arthur-PREVEL/MedSim-RAG)| [Demo video](https://youtu.be/sl_wyVNGyYw?si=X8N37PXTsvnKNsEK) |
 
 A clinical simulation system built around a strict "zero-hallucination" policy, grounding all medical knowledge in data retrieved from PubMed and NCBI rather than model weights. The system employs a tri-agent benchmark architecture that automatically evaluates multiple LLMs as virtual patients and doctors across a matrix of clinical cases, with a seven-graph visualization pipeline for results analysis.
 
