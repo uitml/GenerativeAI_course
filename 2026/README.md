@@ -12,6 +12,7 @@ A fully local, open-source system that turns a natural-language song description
 ---
 
 ## ARPX — Adaptive Research Paper Explainer
+| [GitHub](https://github.com/Danispeed/arpx) | [Demo video](https://github.com/Danispeed/arpx/releases/download/v1.0/Arpx.mp4) |
 
 A RAG-based system that generates explanations of academic research papers adapted to the user's selected knowledge level, from beginner-friendly to advanced. It combines retrieval from both the uploaded paper and its cited references, semantic chunking, and multimodal output generation to make academic literature more accessible.
 
@@ -25,6 +26,7 @@ Investigates whether LoRA fine-tuning of Stable Diffusion 1.5 can improve inpain
 ---
 
 ## Philosopher Debate Arena
+| [GitHub](https://github.com/SvenNatterer/debate_genai) | [Demo video](https://github.com/SvenNatterer/debate_genai/tree/main/VideoDemo) |
 
 An interactive multi-agent system that stages structured multi-round debates between two philosopher-inspired LLM personas, with configurable argumentation strategies, an automated judge panel, and neural text-to-speech audio output. It supports single-philosopher, team-philosopher, and free-topic modes, and explores to what extent prompt-conditioned LLM agents can produce coherent, distinguishable philosophical arguments.
 
